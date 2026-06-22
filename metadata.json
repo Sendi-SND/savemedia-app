@@ -1,0 +1,6 @@
+{
+  "name": "SaveMedia",
+  "description": "Unduh video dan audio (MP4/MP3) dari berbagai media sosial dengan mudah dan cepat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
